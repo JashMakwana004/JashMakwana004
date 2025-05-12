@@ -1,4 +1,4 @@
-![logo](https://github.com/JashMakwana004/JashMakwana004/blob/main/Github%20Banner.png/git.jpg)
+/**![logo](https://github.com/JashMakwana004/JashMakwana004/blob/main/Github%20Banner.png/git.jpg)**/
 <h1 align="center">Hi 👋, I'm Jash Makwana</h1>
 <h3 align="center">A passionate coder from India</h3>
 
